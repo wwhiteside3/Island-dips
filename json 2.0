@@ -8,18 +8,6 @@
             "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
             "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
             "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
-            "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP",
-            "/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP_C",
             "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
             "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
         ],
@@ -169,26 +157,6 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP",
-                        "chancetodrop": 0.8
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP",
-                        "chancetodrop": 0.8
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP",
-                        "chancetodrop": 0.8
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP",
-                        "chancetodrop": 0.8
-                    },
-                    {
-                        "dino": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP",
-                        "chancetodrop": 0.8
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
                         "chancetodrop": 0.8
                     },
@@ -229,15 +197,11 @@
                         "chancetodrop": 0.5
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-                        "chancetodrop": 0.5
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 9
+                "dipstogive": 5
             },
             {
                 "weekforoptions": [
@@ -294,7 +258,7 @@
                         "chancetodrop": 0.8
                     }
                 ],
-                "dipstogive": 7
+                "dipstogive": 5
             },
             {
                 "weekforoptions": [
@@ -343,7 +307,7 @@
                         "chancetodrop": 0.4
                     }
                 ],
-                "dipstogive": 6
+                "dipstogive": 5
             },
             {
                 "weekforoptions": [
@@ -400,7 +364,7 @@
                         "chancetodrop": 0.3
                     }
                 ],
-                "dipstogive": 6
+                "dipstogive": 5
             }
         ]
     }
